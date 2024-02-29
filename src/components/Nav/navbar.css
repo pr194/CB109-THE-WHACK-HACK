@@ -1,0 +1,36 @@
+.maincn{
+    display: flex;
+    width: 100vw;
+    justify-content: space-between;
+    font-size: medium;
+    background-color: tomato;
+    color: white;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.first{
+    display: flex;
+    list-style: none;
+    width: 50vw;
+    
+}
+.first li{
+    margin: 10px;
+    cursor: pointer;
+}
+.second{
+    display: flex;
+    width: 50vw;
+    justify-content: flex-end;
+    list-style: none;
+}
+.second li{
+    margin: 10px;
+    cursor: pointer;
+}
+ li a:hover{
+    color: black
+ }
