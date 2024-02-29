@@ -24,7 +24,7 @@ const Cities = () => {
     },
     {
         link: "https://i.pinimg.com/736x/4a/66/10/4a66104772d3ba817af1ec89d4f3a242.jpg",
-        name: "Kedarnath"
+        name: "Uttarakhand"
     },
     {
        link:"https://as2.ftcdn.net/v2/jpg/04/08/25/05/1000_F_408250543_MVaEVGeWxb4FiFy7mEGKj8nfYkwoAZON.jpg",
