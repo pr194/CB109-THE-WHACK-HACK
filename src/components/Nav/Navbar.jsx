@@ -19,7 +19,7 @@ const Navbar = () => {
             <a href='/cities'>Cities</a>
           </li>
           <li>
-            <a href='/'>Explore</a>
+            <a href='/travel'>Travel</a>
           </li>
           <li>
             <a href='/Contact us'>Contact us</a>
